@@ -1,0 +1,30 @@
+[
+  {
+    "question": "How can I reset my password?",
+    "answer": "Go to the login page and click 'Forgot Password'. Follow the instructions sent to your registered email."
+  },
+  {
+    "question": "How do I access the course material?",
+    "answer": "After login, go to 'My Courses'. Click on the course to see the list of videos, PDFs, and assignments."
+  },
+  {
+    "question": "What should I do if the video is not loading?",
+    "answer": "Ensure your internet connection is stable and try refreshing the page. If the problem persists, contact technical support."
+  },
+  {
+    "question": "Can I get a certificate after completing the course?",
+    "answer": "Yes, you can download the course completion certificate from 'My Dashboard' once you complete all modules and quizzes."
+  },
+  {
+    "question": "How to request a course refund?",
+    "answer": "Submit a refund request from 'My Orders' within 7 days of purchase. Refunds will be processed to your original payment method."
+  },
+  {
+    "question": "Do I get lifetime access to the courses?",
+    "answer": "Most courses provide lifetime access unless stated otherwise. Please check the course description for validity."
+  },
+  {
+    "question": "How do I update my billing information?",
+    "answer": "Go to 'Account Settings' > 'Billing Info' and update your card or UPI details."
+  }
+]
